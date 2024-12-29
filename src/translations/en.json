@@ -1,0 +1,46 @@
+{
+    "navbar": {
+      "home": "Home",
+      "details": "Details",
+      "reviews": "Reviews",
+      "pricing": "Pricing",
+      "languageToggle": "Español"
+    },
+    "hero": {
+      "headline": "Modern SaaS Platform",
+      "subheadline": "All the info you need in one clean, single-page design",
+      "ctaButton": "Get Started"
+    },
+    "details": {
+      "title": "What Makes Us Different",
+      "description": "We follow modern best practices to create fast, reliable, and beautiful products."
+    },
+    "reviews": {
+      "title": "Client Reviews",
+      "cards": [
+        "Incredible service and fantastic design!",
+        "So easy to use and scale.",
+        "The best SaaS I’ve tried this year."
+      ]
+    },
+    "pricing": {
+      "title": "Pricing Plans",
+      "plans": {
+        "basic": {
+          "name": "Basic",
+          "price": "$9/mo",
+          "features": ["Feature A", "Feature B", "Limited Support"]
+        },
+        "pro": {
+          "name": "Pro",
+          "price": "$29/mo",
+          "features": ["All Basic Features", "Extra Feature C", "Priority Support"]
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "price": "$99/mo",
+          "features": ["Custom Solutions", "Dedicated Team", "24/7 Support"]
+        }
+      }
+    }
+  }
